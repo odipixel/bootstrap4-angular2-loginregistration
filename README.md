@@ -5,11 +5,14 @@ This template uses the default Bootstrap4 styles along with a variety of powerfu
 
 # How to install
 via: npm
+
 npm install
 
 # Scripts included
  Bootstrap
+ 
  Font Awesome
+ 
  Simple line icons
 
 
