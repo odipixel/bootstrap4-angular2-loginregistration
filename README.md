@@ -30,6 +30,11 @@ Read more :https://github.com/angular/angular-cli
  
  Simple line icons
  
+ # Issues
+ 
+ https://github.com/kishoremallick/bootstrap4-angular2-loginregistration/issues
+ 
+ 
  # License
  
  MIT
