@@ -7,13 +7,31 @@ This template uses the default Bootstrap4 styles along with a variety of powerfu
 via: npm
 
 npm install
+ or
+ 
+npm run ng serve
+
+You can configure the default HTTP host and port used by the development server with two command-line options :
+
+ng serve --host 0.0.0.0 --port 4201
+
+# Generating Components
+
+ng generate component my-new-component
+
+Read more :https://github.com/angular/angular-cli
+
 
 # Scripts included
- Bootstrap
+
+ Bootstrap 4
  
- Font Awesome
+ Font Awesome 4.7.0
  
  Simple line icons
-
+ 
+ # License
+ 
+ MIT
 
 
