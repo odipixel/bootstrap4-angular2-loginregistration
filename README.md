@@ -7,7 +7,12 @@ This template uses the default Bootstrap4 styles along with a variety of powerfu
 via: npm
 
     npm install
- or
+ 
+    ng serve
+    
+ Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+ 
+ Or youcan use
  
     npm run ng serve
 
