@@ -6,18 +6,18 @@ This template uses the default Bootstrap4 styles along with a variety of powerfu
 # How to install
 via: npm
 
-npm install
+    npm install
  or
  
-npm run ng serve
+    npm run ng serve
 
 You can configure the default HTTP host and port used by the development server with two command-line options :
 
-ng serve --host 0.0.0.0 --port 4201
+    ng serve --host 0.0.0.0 --port 4201
 
 # Generating Components
 
-ng generate component my-new-component
+    ng generate component my-new-component
 
 Read more :https://github.com/angular/angular-cli
 
